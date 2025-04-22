@@ -1,6 +1,6 @@
-Fine-Tuning DistilBERT for Emotion Recognition
+## Fine-Tuning DistilBERT for Emotion Recognition
 
-This project demonstrates fine-tuning DistilBERT, a lightweight transformer model, for emotion recognition from text using the HuggingFace Transformers library. The model classifies text into one of six emotions: sadness, anger, love, joy, fear, and surprise. The dataset contains 16,000 labeled text samples, and the fine-tuned model achieves high accuracy for emotion classification.
+#### This project demonstrates fine-tuning DistilBERT, a lightweight transformer model, for emotion recognition from text using the HuggingFace Transformers library. The model classifies text into one of six emotions: sadness, anger, love, joy, fear, and surprise. The dataset contains 16,000 labeled text samples, and the fine-tuned model achieves high accuracy for emotion classification.
 Table of Contents
 
 Project Overview
